@@ -1,24 +1,404 @@
 {
   "users": [
-    { "id": 1, "name": "Hydrogen", "role": "admin", "status": "active" },
-    { "id": 2, "name": "Helium", "role": "user", "status": "disabled" },
-    { "id": 3, "name": "Lithium", "role": "admin", "status": "disabled" },
-    { "id": 4, "name": "Beryllium", "role": "user", "status": "active" },
-    { "id": 5, "name": "Boron", "role": "user", "status": "active" },
-    { "id": 6, "name": "Carbon", "role": "user", "status": "active" },
-    { "id": 7, "name": "Nitrogen", "role": "user", "status": "active" },
-    { "id": 8, "name": "Oxygen", "role": "user", "status": "active" },
-    { "id": 9, "name": "Fluorine", "role": "user", "status": "active" },
-    { "id": 10, "name": "Neon", "role": "user", "status": "active" },
-    { "id": 11, "name": "Sodium", "role": "user", "status": "active" },
-    { "id": 12, "name": "Magnesium", "role": "user", "status": "active" },
-    { "id": 13, "name": "Aluminum", "role": "user", "status": "active" },
-    { "id": 14, "name": "Silicon", "role": "user", "status": "active" },
-    { "id": 15, "name": "Phosphorus", "role": "user", "status": "active" },
-    { "id": 16, "name": "Sulfur", "role": "user", "status": "active" },
-    { "id": 17, "name": "Chlorine", "role": "user", "status": "active" },
-    { "id": 18, "name": "Argon", "role": "user", "status": "active" },
-    { "id": 19, "name": "Potassium", "role": "user", "status": "active" },
-    { "id": 20, "name": "Calcium", "role": "user", "status": "active" }
+    {
+      "id": 1,
+      "firstName": "First name 1",
+      "lastName": "Last name 1",
+      "role": "admin",
+      "status": "active",
+      "email": "email1@server.com",
+      "permissions": {
+        "superadmin": true,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "First name 2",
+      "lastName": "Last name 2",
+      "role": "admin",
+      "status": "disabled",
+      "email": "email2@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "First name 3",
+      "lastName": "Last name 3",
+      "role": "user",
+      "status": "active",
+      "email": "email3@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "First name 4",
+      "lastName": "Last name 4",
+      "role": "user",
+      "status": "disabled",
+      "email": "email4@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "First name 5",
+      "lastName": "Last name 5",
+      "role": "user",
+      "status": "active",
+      "email": "email5@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "firstName": "First name 6",
+      "lastName": "Last name 6",
+      "role": "user",
+      "status": "active",
+      "email": "email6@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "firstName": "First name 7",
+      "lastName": "Last name 7",
+      "role": "user",
+      "status": "active",
+      "email": "email7@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "firstName": "First name 8",
+      "lastName": "Last name 8",
+      "role": "user",
+      "status": "active",
+      "email": "email8@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "firstName": "First name 9",
+      "lastName": "Last name 9",
+      "role": "user",
+      "status": "active",
+      "email": "email9@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "firstName": "First name 10",
+      "lastName": "Last name 10",
+      "role": "user",
+      "status": "active",
+      "email": "email10@server.com",
+      "permissions": {
+        "superadmin": false,
+        "permissionGroups": [
+          {
+            "Permission group 1": {
+              "Permission 11": null,
+              "Permission 12": null,
+              "Permission 13": null,
+              "Permission 14": null,
+              "Permission 15": null
+            }
+          },
+          {
+            "Permission group 2": {
+              "Permission 21": null,
+              "Permission 22": null,
+              "Permission 23": null,
+              "Permission 24": null,
+              "Permission 25": null
+            }
+          },
+          {
+            "Permission group 3": {
+              "Permission 31": null,
+              "Permission 32": null,
+              "Permission 33": null,
+              "Permission 34": null,
+              "Permission 35": null
+            }
+          }
+        ]
+      }
+    }
   ]
 }
