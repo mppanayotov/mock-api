@@ -10,25 +10,25 @@
       "permissions": {
         "superadmin": true, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": true,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": true,
+          "Permission 22": true,
+          "Permission 23": true,
+          "Permission 24": true,
+          "Permission 25": true
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -42,25 +42,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -74,25 +74,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -106,25 +106,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -138,25 +138,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -170,25 +170,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -202,25 +202,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     },
@@ -234,25 +234,25 @@
       "permissions": {
         "superadmin": false, 
         "Permission group 1": {
-          "Permission 11": null,
-          "Permission 12": null,
-          "Permission 13": null,
-          "Permission 14": null,
-          "Permission 15": null
+          "Permission 11": false,
+          "Permission 12": false,
+          "Permission 13": false,
+          "Permission 14": false,
+          "Permission 15": false
         },
         "Permission group 2": {
-          "Permission 21": null,
-          "Permission 22": null,
-          "Permission 23": null,
-          "Permission 24": null,
-          "Permission 25": null
+          "Permission 21": false,
+          "Permission 22": false,
+          "Permission 23": false,
+          "Permission 24": false,
+          "Permission 25": false
         },
         "Permission group 3": {
-          "Permission 31": null,
-          "Permission 32": null,
-          "Permission 33": null,
-          "Permission 34": null,
-          "Permission 35": null
+          "Permission 31": false,
+          "Permission 32": false,
+          "Permission 33": false,
+          "Permission 34": false,
+          "Permission 35": false
         }
       }
     }
