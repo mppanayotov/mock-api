@@ -359,46 +359,6 @@
           }
         ]
       }
-    },
-    {
-      "id": 10,
-      "firstName": "First name 10",
-      "lastName": "Last name 10",
-      "role": "user",
-      "status": "active",
-      "email": "email10@server.com",
-      "permissions": {
-        "superadmin": false,
-        "permissionGroups": [
-          {
-            "Permission group 1": {
-              "Permission 11": null,
-              "Permission 12": null,
-              "Permission 13": null,
-              "Permission 14": null,
-              "Permission 15": null
-            }
-          },
-          {
-            "Permission group 2": {
-              "Permission 21": null,
-              "Permission 22": null,
-              "Permission 23": null,
-              "Permission 24": null,
-              "Permission 25": null
-            }
-          },
-          {
-            "Permission group 3": {
-              "Permission 31": null,
-              "Permission 32": null,
-              "Permission 33": null,
-              "Permission 34": null,
-              "Permission 35": null
-            }
-          }
-        ]
-      }
     }
   ]
 }
